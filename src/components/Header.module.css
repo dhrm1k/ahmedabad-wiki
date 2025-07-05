@@ -1,0 +1,46 @@
+.maindiv {
+    min-height: 13.5rem; /* Reduced from 20rem */
+    color: white;
+    font-family: "Inter", sans-serif;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.maindiv h1{
+    font-family: "Inter", sans-serif;
+    font-size: 28px; /* Reduced from 30px */
+    align-self: center;
+    font-weight: 600;
+    margin: 5px;
+}
+
+.maindiv p{
+    font-size: 22px;
+    color: #FFFFFF;
+    opacity: 80%;
+    font-weight: 500;
+    margin: 5px;
+}
+
+.maindiv button{
+    color: #FFFFFF;
+    background-color: #000000;
+    padding: .7rem;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    border: none;
+    border-radius: 56px;
+    min-width: 140px;
+    margin: 10px;
+}
+
+.maindiv button:hover{
+    cursor: pointer;
+    background-color: #818181;
+}

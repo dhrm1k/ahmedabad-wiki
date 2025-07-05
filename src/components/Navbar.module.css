@@ -1,0 +1,45 @@
+.navdiv{
+    width: 85ta%;
+    padding-left: 15%;
+    display: flex;
+    gap: 10px; /* Add some space between the image and text */
+    align-items: center; /* Vertically align items */
+}
+
+.logoImage {
+    height: 22px; /* Adjust size as needed */
+    width: 24px;
+}
+
+.logo{
+    font-size: 13px; /* Reduced from 18px */
+    font-weight: 600;
+    align-self: center; /* Align with the image */
+}
+
+.wiki{
+    color: #868686;
+    margin: 0;
+    padding: 0;
+}
+
+.logo:hover{
+    cursor: pointer;
+}
+
+
+@media (max-width: 600px) {
+
+    .navdiv{
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+        padding-left: 0;
+    }
+    
+    .logo{
+        font-size: 16px; /* Reduced from 18px */
+        font-weight: 600;
+
+    }
+}
