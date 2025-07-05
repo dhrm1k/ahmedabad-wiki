@@ -8,9 +8,11 @@ const handleShare = () => {
 
 export default function Header() {
     const headerStyle = {
-        backgroundImage: `url('/Riverfront_Ahmedabad_Wikimedia.jpg')`,
+        // backgroundImage: `url('/Riverfront_Ahmedabad_Wikimedia.jpg')`,
+                backgroundImage: `url('/test.png')`,
+
         backgroundSize: 'cover',
-        backgroundPosition: 'center 80%',
+        backgroundPosition: 'center 60%',
         backgroundRepeat: 'no-repeat',
     };
 
