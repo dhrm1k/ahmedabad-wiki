@@ -11,6 +11,9 @@
 # production
 /build
 
+# mine
+DOMAIN_CHANGES_CHECKLIST.txt
+
 # misc
 .env
 .DS_Store
