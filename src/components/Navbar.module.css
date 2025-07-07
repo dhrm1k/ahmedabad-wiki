@@ -1,9 +1,10 @@
 .navdiv{
-    width: 85ta%;
+    width: 85%;
     padding-left: 15%;
     display: flex;
     gap: 10px; /* Add some space between the image and text */
     align-items: center; /* Vertically align items */
+    background-color: white;
 }
 
 .logoImage {

@@ -5,11 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #fdf2f8;
 }
 
 .App {
   text-align: center;
   font-family: "Inter", sans-serif;
+  min-height: 100vh;
+  background-color: #fdf2f8;
 }
 
 .container {
