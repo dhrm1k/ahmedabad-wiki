@@ -41,7 +41,7 @@ export default function Body() {
             </div>
             <div className={styles.footerDiv}>
                 <p>
-                    Have more places in mind? Share them <a href="#" target="_blank" rel="noopener noreferrer">here</a>!
+                    Have more places in mind? Share them <a target="_blank" href="https://forms.gle/iUuG68RW9pJ4Wbz67" target="_blank" rel="noopener noreferrer">here</a>!
                 </p>
                 <p>
                     Made by <a href="https://x.com/dhrm1k" target="_blank" rel="noopener noreferrer">@dhrm1k</a>
